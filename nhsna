@@ -2,6 +2,10 @@
 # encofing:utf-8
 import os
 from time import sleep
+os.system("pkg install python")
+os.system("clear")
+os.system("apt install git")
+os.system("clear")
 os.system("apt-get install cowsay")
 os.system("apt install toilet -y")
 os.system("clear")
